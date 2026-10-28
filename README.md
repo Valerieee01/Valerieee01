@@ -51,6 +51,7 @@ Trabajo en el punto donde se cruzan **la tecnología y el negocio**. Desarrollo,
 
 | Proyecto | Qué demuestra | Stack | Estado |
 |---|---|---|---|
+| [**crono-plane**](https://github.com/TU-USUARIO/crono-plane) | PWA para que una Product Owner controle los sprints semanales de decenas de proyectos en Jira, planifique entregas y reciba alertas. La IA solo propone sobre reglas que define la PO | .NET 10 · Clean Architecture · PostgreSQL · React · Hangfire | ![](https://img.shields.io/badge/-en%20desarrollo-yellow) |
 | [**ai-dev-guardrails**](https://github.com/TU-USUARIO/ai-dev-guardrails) | Playbook y plantillas para desarrollar con IA de forma segura y con criterio | Markdown · GitHub Actions · Gitleaks · Semgrep | ![](https://img.shields.io/badge/-en%20desarrollo-yellow) |
 | [**cufe-ubl-dotnet**](https://github.com/TU-USUARIO/cufe-ubl-dotnet) | Librería para calcular y validar CUFE / UBL 2.1 según el anexo técnico público de la DIAN | C# · .NET · xUnit | ![](https://img.shields.io/badge/-planeado-lightgrey) |
 | [**sql-server-toolkit**](https://github.com/TU-USUARIO/sql-server-toolkit) | Plantillas T-SQL robustas: transacciones, manejo de errores, auditoría y pruebas | SQL Server · T-SQL · tSQLt | ![](https://img.shields.io/badge/-planeado-lightgrey) |
@@ -67,10 +68,16 @@ Trabajo en el punto donde se cruzan **la tecnología y el negocio**. Desarrollo,
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Calidad y seguridad**<br/>
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
